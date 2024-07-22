@@ -1,2 +1,2 @@
 # learnJavascript
-tempt test
+In this repo I will be learning Javascript
